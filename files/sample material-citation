@@ -1,0 +1,36 @@
+<tp:treatment-sec sec-type="materials-examined">
+        <p><tp:material-citation><object-id object-id-type="uri">[material-citation
+                    URI]</object-id><tp:type-status>Holotype</tp:type-status><!--Occurrence:-->
+                <tp:collecting-event><!--recordedBy:-->
+                    <named-content content-type="dwc:recordedBy"><bold>recorded by: </bold>P. Stoev &amp; L.
+                        Penev</named-content>
+                    <named-content content-type="dwc:individualCount"><bold>individualCount: </bold>1</named-content>
+                    <named-content content-type="dwc:sex"><bold>sex: </bold>male</named-content><!--Location:-->
+                    <!-- tp:collecting-location is element only. Generate headings on rendition; or perhaps I will model location on named-content to allow bold-->
+                    <tp:collecting-location>
+                        <!--island:-->
+                        <tp:location location-type="dwc:island">Luzon Island</tp:location>
+                        <!--; country:-->
+                        <tp:location location-type="dwc:country">Philippines</tp:location>
+                        <!--; stateProvince:-->
+                        <tp:location location-type="dwc:stateProvince">Mountain
+                            Province</tp:location>
+                        <!--; verbatimLocality:-->
+                        <tp:location location-type="dwc:verbatimLocality">Mt Polis Checkpoint on the
+                            road Banaue – Sagada</tp:location>
+                        <!--; verbatimElevation:-->
+                        <tp:location location-type="dwc:verbatimElevation">1800-1900 m</tp:location>
+                        <!--; locationRemarks:-->
+                        <tp:location location-type="dwc:locationRemarks">under stones and
+                            logs</tp:location>
+                        <!--; verbatimLatitude: -->
+                        <tp:location location-type="dwc:verbatimLatitude">16°57\'58"N</tp:location>
+                        <!--; verbatimLongitude: -->
+                        <tp:location location-type="dwc:verbatimLongitude">121°1\'37"E</tp:location>
+                    </tp:collecting-location>; Event: <named-content
+                        content-type="dwc:eventDate"><bold>eventDate</bold>6 July
+                    2012</named-content></tp:collecting-event>; <!--Record Level:-->
+                <tp:material-location>institutionCode: <object-id
+                        object-id-type="dwc:institutionCode">NMNHS</object-id>
+                </tp:material-location></tp:material-citation></p>
+    </tp:treatment-sec>
